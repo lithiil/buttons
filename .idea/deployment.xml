@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" serverName="bigteddy">
+    <serverData>
+      <paths name="bigteddy">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/buttons" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+  </component>
+</project>
