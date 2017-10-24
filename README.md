@@ -1,5 +1,7 @@
 **Welcome To The Buttons!**
 
+![alt text](buttons.jpg)
+
 I put a couple of .mp3 sounds in the audio folder so that you can test the concept and see if you like it.
 
 **I do not own any of the sounds included!**
