@@ -1,6 +1,6 @@
 **Welcome To The Buttons!**
 
-![alt text](buttons.JPG)
+![alt text](assets/images/buttons.jpg)
 
 I put a couple of .mp3 sounds in the audio folder so that you can test the concept and see if you like it.
 
