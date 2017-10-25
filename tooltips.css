@@ -1,4 +1,0 @@
-#upload-submit[title]:hover:after {
-    content: attr(title);
-    position: absolute;
-}
