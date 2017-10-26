@@ -26,4 +26,4 @@ I put a couple of .mp3 sounds in the audio folder so that you can test the conce
 
 If you think this project is cool and you have any tips or ideas, please contact me at tudorjamal@gmail.com :)
 
-Last but not least, I would like to thank [Andrei Susanu](https://github.com/andreisusanu) and [Alexandru Ifrim](https://github.com/aifrim) for coaching me and introducing me to the world of programming :D
+Last but not least, I would like to thank [Andrei Susanu](https://github.com/andreisusanu), [Mihai Tuhari](https://github.com/mihaituhari) and [Alexandru Ifrim](https://github.com/aifrim) for coaching me and introducing me to the world of programming :D
