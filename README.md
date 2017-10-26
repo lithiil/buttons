@@ -6,13 +6,14 @@ I put a couple of .mp3 sounds in the audio folder so that you can test the conce
 
 **I do not own any of the sounds included!**
 
-*This project uses PHP and Javascript + Jquery( these loaded from CND automatically), so make sure that you have these dependencies installed before attempting to use it*
+*This project uses PHP and Javascript + jQuery (loaded through CDN), so make sure that you have these dependencies installed before attempting to use it*
 
- - The upload feature is disabled by default. You must uncomment the PHP logic and the HTML code to make it available. After closing the upload modal, a JS window.replace will redirect the user to the site (to avoid the annoying submit again warning), don`t forget to uncomment it and put your own url there!
- - Don`t forget to give the OS user write permission to the approve folder or an error will be generated
- - Change the email in the upload function to your own or comment it out if you don`t want it
+ - The upload feature is disabled by default. You must update `assets/scripts/config.php` and enable the upload flag there to make it available. After closing the upload modal, a JS window.replace will redirect the user to the site (to avoid the annoying submit again warning), don`t forget to uncomment it and put your own url there!
+ - Don't forget to give the OS user write permission to the approve folder or an error will be generated
+ - Change the email in `assets/scripts/config.php` to your own or make it `NULL` if you don't want it
  
-**The .mp3 Files go in the audio folder!**
+**The .mp3 files go in the audio folder!**
+
 
 **How do I make my own cool sounds?**
 
